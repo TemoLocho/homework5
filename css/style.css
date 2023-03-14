@@ -1,0 +1,32 @@
+header {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 38px 130px;
+}
+
+.logo {
+    vertical-align: middle;
+}
+
+.navheader {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 280px;
+}
+
+li {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.navimg2 {
+    margin-left: 55px;
+    margin-right: 47px;
+}
+
+.button{
+    margin-left: 250px;
+    font-size: 20px;
+    background-color: #2A9D8F;
+    padding: 8px 19px;
+}
