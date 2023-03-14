@@ -71,3 +71,39 @@ li {
     border: none;
     color: white;
 }
+
+.article1{
+    padding: 200px 330px;
+    width: 1440px;
+    margin: 0 auto;
+    
+    
+
+}
+
+.h3_article1{
+    margin: 0px 253px 62px 184px;
+    font-size: 48px;
+}
+
+.img_article1{
+    vertical-align: top;
+
+}
+
+.p1_article1{
+    display: inline-block;
+    width: 641.55px;
+    height: 120px;
+    font-size: 20px;
+    vertical-align: top;
+    margin-left: 32px;
+}
+
+.p2_article1{
+    width: 780px;
+    height: 170px;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
