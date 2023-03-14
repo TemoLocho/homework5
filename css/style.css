@@ -24,9 +24,50 @@ li {
     margin-right: 47px;
 }
 
-.button{
+.button_header {
     margin-left: 250px;
     font-size: 20px;
     background-color: #2A9D8F;
     padding: 8px 19px;
+    border: none;
+    color: white;
+}
+
+.section1 {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #C2F3EE;
+    padding: 80px 130px;
+}
+
+.div_section1 {
+    display: inline-block;
+    width: 480px;
+    height: 560px;
+    margin-left: 80px;
+    vertical-align: top;
+}
+
+.img_section1 {
+    vertical-align: top;
+
+}
+
+.h2_section1 {
+    height: 90px;
+    font-size: 32px;
+    margin-bottom: 33px;
+}
+
+.p_section1 {
+    height: 324px;
+    font-size: 18px;
+    margin-bottom: 73px;
+}
+
+.button_section1 {
+    padding: 8px 27px;
+    background-color: #2A9D8F;
+    border: none;
+    color: white;
 }
