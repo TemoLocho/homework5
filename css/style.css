@@ -14,7 +14,8 @@ header {
     margin-left: 280px;
 }
 
-li {
+.navimg1,
+.navimg2 {
     display: inline-block;
     font-size: 20px;
 }
@@ -72,23 +73,23 @@ li {
     color: white;
 }
 
-.article1{
+.article1 {
     padding: 200px 330px;
     width: 1440px;
-    margin: 0 auto; 
+    margin: 0 auto;
 }
 
-.h3_article1{
+.h3_article1 {
     margin: 0px 253px 60px 184px;
     font-size: 48px;
 }
 
-.img_article1{
+.img_article1 {
     vertical-align: top;
 
 }
 
-.p1_article1{
+.p1_article1 {
     display: inline-block;
     width: 641.55px;
     height: 120px;
@@ -97,31 +98,31 @@ li {
     margin-left: 32px;
 }
 
-.p2_article1{
+.p2_article1 {
     width: 780px;
     height: 170px;
     font-size: 20px;
     margin-top: 20px;
 }
 
-.section2{
+.section2 {
     padding: 200px 130px;
     width: 1440px;
     margin: 0 auto;
 }
 
-.div_section2{
+.div_section2 {
     width: 1180px;
     height: 523px;
 
 }
 
-.h3_section2{
-    margin: 0px 305px 57px 360px ;
+.h3_section2 {
+    margin: 0px 305px 57px 360px;
     font-size: 48px;
 }
 
-.div2_section2{
+.div2_section2 {
     width: 580px;
     height: 404px;
     margin-right: 10px;
@@ -129,7 +130,7 @@ li {
     vertical-align: top;
 }
 
-.button_div2_section2{
+.button_div2_section2 {
     padding: 6px 25px;
     background-color: #2A9D8F;
     border: none;
@@ -139,18 +140,18 @@ li {
 
 }
 
-.h4_div2_section2{
-font-size: 24px;
+.h4_div2_section2 {
+    font-size: 24px;
 }
 
-.div3_section3{
+.div3_section3 {
     width: 580px;
     height: 404px;
     display: inline-block;
     vertical-align: top;
 }
 
-.button_div3_section3{
+.button_div3_section3 {
     padding: 6px 25px;
     background-color: #2A9D8F;
     border: none;
@@ -159,6 +160,69 @@ font-size: 24px;
     margin-bottom: 15px;
 }
 
-.h4_div3_section3{
-font-size: 24px;
+.h4_div3_section3 {
+    font-size: 24px;
 }
+
+footer {
+    padding: 80px 130px;
+    width: 1440px;
+    background-color: #2A9D8F;
+    margin: 0 auto;
+}
+
+.logo_footer {
+    vertical-align: top;
+}
+
+.nav_footer {
+    display: inline-block;
+    margin-left: 410px;
+    vertical-align: top;
+    width: 665px;
+    height: 226px;
+}
+
+.ul1_footer {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.ul2_footer {
+    display: inline-block;
+    margin-left: 70px;
+    margin-right: 70px;
+    vertical-align: top;
+}
+
+.ul3_footer {
+    display: inline-block;
+    width: 301px;
+    vertical-align: top;
+    
+}
+
+.li1_footer {
+    margin-bottom: 21px;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.li_footer {
+    color: white;
+    font-size: 18px;
+}
+
+.li3_footer {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: white;
+    font-size: 18px;
+}
+
+.a_footer{
+    color: white;
+}
+
+
